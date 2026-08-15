@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=5%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+building+with+React+%26+JavaScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=5%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+Learning+AI-Driven+Data+Analytics" alt="Typing SVG" /></a>
 
 </div>
 
@@ -24,10 +24,11 @@
 ```js
 const luther = {
   role: "MIS & Data Analyst",
-  workplace: "Dr. Raman's Dental Clinic",
-  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  workplace: "Dr. Raman's Clinic, Ambur",
+  location: "Ambur, Tamil Nadu, India 🇮🇳",
   core_tools: ["Excel", "SQL", "Power BI", "Python"],
-  currently_learning: ["React", "Tailwind CSS", "JavaScript"],
+  completed: ["React", "Tailwind CSS", "JavaScript (2024)", "Prompt Engineering (2025)"],
+  currently_learning: ["AI-Driven Data Analytics — Entri Academy"],
   mission: "Turn raw clinic & business data into decisions people can act on"
 };
 ```
@@ -35,7 +36,13 @@ const luther = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Location](https://img.shields.io/badge/Chennai-Tamil%20Nadu-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Ambur-Tamil%20Nadu-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+
+![Entri Academy](https://img.shields.io/badge/Currently%20Learning-AI--Driven%20Data%20Analytics%20%40%20Entri%20Academy-238636?style=flat-square)
 
 </div>
 
@@ -157,14 +164,16 @@ const luther = {
 ┌─────────────────────────────────────────────────────────────┐
 │                                                               │
 │   Started in data — Excel, SQL, Power BI, Python.            │
-│   Spent years turning messy clinic records into reports      │
-│   people actually trust and act on.                          │
+│   Spent 5+ years turning messy clinic records into reports   │
+│   people actually trust and act on, at Dr. Raman's Clinic,   │
+│   Ambur.                                                      │
 │                                                                │
-│   Now building the other side of the stack:                  │
-│   React, JavaScript, Tailwind — shipping real, deployed apps │
-│   instead of just analyzing other people's.                  │
+│   Completed React, JavaScript & Tailwind CSS (2024) and      │
+│   Prompt Engineering (2025) to build the other side of the   │
+│   stack — the deployed apps below are the result.            │
 │                                                                │
-│   Analyst first. Builder second. Both, always learning.      │
+│   Currently leveling up in AI-Driven Data Analytics at       │
+│   Entri Academy.                                              │
 │                                                                │
 └─────────────────────────────────────────────────────────────┘
 ```
