@@ -139,12 +139,18 @@ const luther = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lutherBenny&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=238636" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=lutherBenny&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=3b82f6&fire=e3b341&currStreakLabel=3b82f6" />
+![Total Repos](https://img.shields.io/badge/Total%20Repos-43-3b82f6?style=for-the-badge&labelColor=0d1117)
+[![Followers](https://img.shields.io/github/followers/lutherBenny?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers)](https://github.com/lutherBenny?tab=followers)
+![Joined](https://img.shields.io/badge/Coding%20Since-Apr%202024-e3b341?style=for-the-badge&labelColor=0d1117)
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherBenny&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8&hide=jupyter+notebook" />
+**Most Used Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
