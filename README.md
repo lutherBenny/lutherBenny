@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2942,100:3b82f6&height=220&section=header&text=Luther%20Benny&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MIS%20%26%20Data%20Analyst%20%E2%80%94%20turning%20clinic%20data%20into%20decisions&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2942,100:3b82f6&height=220&section=header&text=Luther%20Benny&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MIS%20and%20Data%20Analyst%20-%20turning%20clinic%20data%20into%20decisions&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -9,7 +9,7 @@
 &nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/lutherBenny?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers)](https://github.com/lutherBenny?tab=followers)
 &nbsp;&nbsp;
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lutherBenny&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=e3b341&labelColor=0d1117)](https://github.com/lutherBenny?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-43-e3b341?style=for-the-badge&labelColor=0d1117)](https://github.com/lutherBenny?tab=repositories)
 
 <br/>
 
