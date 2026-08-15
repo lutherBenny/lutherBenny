@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=5%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+building+with+React+%26+JavaScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=5%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+building+with+React+%26+JavaScript" alt="Typing SVG" /></a>
 
 </div>
 
@@ -132,12 +132,12 @@ const luther = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lutherBenny&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=238636&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lutherBenny&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=3b82f6&fire=e3b341&currStreakLabel=3b82f6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lutherBenny&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=238636" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=lutherBenny&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=3b82f6&fire=e3b341&currStreakLabel=3b82f6" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherBenny&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherBenny&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8&hide=jupyter+notebook" />
 
 </div>
 
