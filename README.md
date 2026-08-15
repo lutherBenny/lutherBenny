@@ -48,6 +48,49 @@ const luther = {
 
 ---
 
+## 🧗 My Upskilling Journey
+
+<table>
+<tr>
+<td width="15%" align="center"><b>2021–Present</b></td>
+<td width="85%">
+
+**MIS & Data Analyst — Dr. Raman's Clinic, Ambur**
+5+ years turning healthcare reporting into decisions — Excel, SQL, Power BI, and Python as daily tools for tracking clinic operations and patient data.
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>2024</b></td>
+<td>
+
+**Web Development — React, JavaScript, Tailwind CSS**
+Stepped outside data analysis to learn how to build things myself. Completed the course and shipped real, deployed projects — the apps section below is proof.
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025</b></td>
+<td>
+
+**Prompt Engineering**
+Learned how to work effectively with AI tools — writing prompts that get precise, reliable output instead of guesswork.
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Now</b></td>
+<td>
+
+**AI-Driven Data Analytics — Entri Academy** 🎯
+Currently upskilling to bring AI into the analyst workflow — combining years of healthcare reporting experience with modern AI-assisted analytics.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Projects I've Shipped
 
 > Real, deployed builds — most live on Vercel.
