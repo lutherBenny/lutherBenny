@@ -22,7 +22,14 @@
 ## 👋 About Me
 
 <div align="center">
-<img src="https://wsrv.nl/?url=github.com/lutherBenny.png&w=220&h=220&fit=cover&mask=circle&maxage=7d" width="170" alt="Luther Benny"/>
+<img src="https://wsrv.nl/?url=github.com/lutherBenny.png&w=220&h=220&fit=cover&mask=circle&maxage=7d" width="150" alt="Luther Benny"/>
+
+### Luther Benny
+
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Location](https://img.shields.io/badge/Ambur-Tamil%20Nadu-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-AI--Driven%20Data%20Analytics%20%40%20Entri%20Academy-238636?style=for-the-badge)
+
 </div>
 <br/>
 
@@ -39,19 +46,6 @@ build the tools I used to only analyze.
   > Shipped: 10+ deployed React / JS apps (see below)
   > Daily tools: Excel · SQL · Power BI · Python
 ```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Location](https://img.shields.io/badge/Ambur-Tamil%20Nadu-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
-<div align="center">
-
-![Entri Academy](https://img.shields.io/badge/Currently%20Learning-AI--Driven%20Data%20Analytics%20%40%20Entri%20Academy-238636?style=flat-square)
-
-</div>
 
 ---
 
