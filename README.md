@@ -240,14 +240,6 @@ Yrs Data Experience
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lutherBenny&theme=github-compact&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=e3b341&area=true&area_color=238636" />
-
-</div>
-
 ---
 
 ## 🧭 How I Work
