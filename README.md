@@ -13,13 +13,18 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=5%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+Learning+AI-Driven+Data+Analytics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=7%2B+years+in+Healthcare+Reporting;Excel+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Python;Now+Learning+AI-Driven+Data+Analytics" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
 ## 👋 About Me
+
+<div align="center">
+<img src="https://wsrv.nl/?url=github.com/lutherBenny.png&w=220&h=220&fit=cover&mask=circle&maxage=7d" width="170" alt="Luther Benny"/>
+</div>
+<br/>
 
 ```js
 const luther = {
@@ -50,44 +55,47 @@ const luther = {
 
 ## 🧗 My Upskilling Journey
 
-<table>
-<tr>
-<td width="15%" align="center"><b>2021–Present</b></td>
-<td width="85%">
+<div align="center">
 
-**MIS & Data Analyst — Dr. Raman's Clinic, Ambur**
-5+ years turning healthcare reporting into decisions — Excel, SQL, Power BI, and Python as daily tools for tracking clinic operations and patient data.
+![2019](https://img.shields.io/badge/2019%20--%20PRESENT-3b82f6?style=for-the-badge&labelColor=0d1117)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>2024</b></td>
-<td>
+</div>
 
-**Web Development — React, JavaScript, Tailwind CSS**
+**🏥 MIS & Data Analyst — Dr. Raman's Clinic, Ambur**
+7+ years turning healthcare reporting into decisions — Excel, SQL, Power BI, and Python as daily tools for tracking clinic operations and patient data.
+
+<br/>
+
+<div align="center">
+
+![2024](https://img.shields.io/badge/2024-e3b341?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+**💻 Web Development — React, JavaScript, Tailwind CSS**
 Stepped outside data analysis to learn how to build things myself. Completed the course and shipped real, deployed projects — the apps section below is proof.
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>2025</b></td>
-<td>
+<br/>
 
-**Prompt Engineering**
+<div align="center">
+
+![2025](https://img.shields.io/badge/2025-8957e5?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+**🤖 Prompt Engineering**
 Learned how to work effectively with AI tools — writing prompts that get precise, reliable output instead of guesswork.
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Now</b></td>
-<td>
+<br/>
 
-**AI-Driven Data Analytics — Entri Academy** 🎯
-Currently upskilling to bring AI into the analyst workflow — combining years of healthcare reporting experience with modern AI-assisted analytics.
+<div align="center">
 
-</td>
-</tr>
-</table>
+![NOW](https://img.shields.io/badge/NOW-238636?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+**🎯 AI-Driven Data Analytics — Entri Academy**
+Currently upskilling to bring AI into the analyst workflow — combining 7+ years of healthcare reporting experience with modern AI-assisted analytics.
 
 ---
 
@@ -213,7 +221,7 @@ Currently upskilling to bring AI into the analyst workflow — combining years o
 ┌─────────────────────────────────────────────────────────────┐
 │                                                               │
 │   Started in data — Excel, SQL, Power BI, Python.            │
-│   Spent 5+ years turning messy clinic records into reports   │
+│   Spent 7+ years turning messy clinic records into reports   │
 │   people actually trust and act on, at Dr. Raman's Clinic,   │
 │   Ambur.                                                      │
 │                                                                │
