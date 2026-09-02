@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/lutherBenny/lutherBenny/main/assets/avatar-animated.svg" width="180" alt="Luther Benny"/>
+<img src="https://cdn.jsdelivr.net/gh/lutherBenny/lutherBenny@main/assets/avatar-animated.svg" width="180" alt="Luther Benny"/>
 
 ### Luther Benny
 
