@@ -196,30 +196,30 @@ Currently upskilling to bring AI into the analyst workflow — combining 7+ year
 
 <div align="center">
 
-<table bgcolor="#0d1117">
+<table>
 <tr>
 <td align="center" width="25%">
 
-### <font color="#3b82f6">43</font>
-<font color="#c9d1d9">Public Repos</font>
+### 43
+Public Repos
 
 </td>
 <td align="center" width="25%">
 
 [![](https://img.shields.io/github/followers/lutherBenny?style=flat-square&label=&color=3b82f6)](https://github.com/lutherBenny?tab=followers)
-<font color="#c9d1d9">Followers</font>
+Followers
 
 </td>
 <td align="center" width="25%">
 
-### <font color="#e3b341">2024</font>
-<font color="#c9d1d9">Coding Since</font>
+### 2024
+Coding Since
 
 </td>
 <td align="center" width="25%">
 
-### <font color="#238636">7+</font>
-<font color="#c9d1d9">Yrs Data Experience</font>
+### 7+
+Yrs Data Experience
 
 </td>
 </tr>
