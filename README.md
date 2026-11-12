@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2942,100:3b82f6&height=220&section=header&text=Luther%20Benny&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MIS%20and%20Data%20Analyst%20-%20turning%20clinic%20data%20into%20decisions&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2942,100:3b82f6&height=220&section=header&text=Luther%20Benny&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Healthcare%20Data%20Analyst%20-%20turning%20clinic%20data%20into%20decisions&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -9,7 +9,7 @@
 &nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/lutherBenny?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers)](https://github.com/lutherBenny?tab=followers)
 &nbsp;&nbsp;
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-43-e3b341?style=for-the-badge&labelColor=0d1117)](https://github.com/lutherBenny?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FlutherBenny&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=e3b341&labelColor=0d1117)](https://github.com/lutherBenny?tab=repositories)
 
 <br/>
 
@@ -37,11 +37,11 @@
 ~/ whoami
 $ cat about.txt
 
-Hi, I'm Luther Benny — MIS & Data Analyst turning healthcare
-reporting into decisions that matter. Now teaching myself to
-build the tools I used to only analyze.
+Hi, I'm Luther Benny — Healthcare Data Analyst turning
+clinic reporting into decisions that matter. Now teaching
+myself to build the tools I used to only analyze.
 
-  > Currently: MIS & Data Analyst, Dr. Raman's Clinic, Ambur (2019–Present)
+  > Currently: Healthcare Data Analyst, Dr. Raman's Clinic, Ambur (2019–Present)
   > Upskilling: AI-Driven Data Analytics @ Entri Academy
   > Shipped: 10+ deployed React / JS apps (see below)
   > Daily tools: Excel · SQL · Power BI · Python
@@ -57,7 +57,7 @@ build the tools I used to only analyze.
 
 </div>
 
-**🏥 MIS & Data Analyst — Dr. Raman's Clinic, Ambur**
+**🏥 Healthcare Data Analyst — Dr. Raman's Clinic, Ambur**
 7+ years turning healthcare reporting into decisions — Excel, SQL, Power BI, and Python as daily tools for tracking clinic operations and patient data.
 
 <br/>
@@ -196,30 +196,30 @@ Currently upskilling to bring AI into the analyst workflow — combining 7+ year
 
 <div align="center">
 
-<table bgcolor="#0d1117">
+<table bgcolor="#1a1a1a">
 <tr>
 <td align="center" width="25%">
 
-### <font color="#3b82f6">43</font>
-<font color="#c9d1d9">Public Repos</font>
+### <font color="#d4af37">43</font>
+<font color="#e5e5e5">Public Repos</font>
 
 </td>
 <td align="center" width="25%">
 
-[![](https://img.shields.io/github/followers/lutherBenny?style=flat-square&label=&color=3b82f6)](https://github.com/lutherBenny?tab=followers)
-<font color="#c9d1d9">Followers</font>
+[![](https://img.shields.io/github/followers/lutherBenny?style=flat-square&label=&color=d4af37)](https://github.com/lutherBenny?tab=followers)
+<font color="#e5e5e5">Followers</font>
 
 </td>
 <td align="center" width="25%">
 
-### <font color="#e3b341">2024</font>
-<font color="#c9d1d9">Coding Since</font>
+### <font color="#d4af37">2024</font>
+<font color="#e5e5e5">Coding Since</font>
 
 </td>
 <td align="center" width="25%">
 
-### <font color="#238636">7+</font>
-<font color="#c9d1d9">Yrs Data Experience</font>
+### <font color="#d4af37">7+</font>
+<font color="#e5e5e5">Yrs Data Experience</font>
 
 </td>
 </tr>
